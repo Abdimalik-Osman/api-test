@@ -1,0 +1,53 @@
+{
+  "students": [
+    {
+      "sName": "Abdirahman Mohamoud Mohamed",
+      "phone": "61628666",
+      "sClass": "CA194",
+      "semester": "6",
+      "id": 5
+    },
+    {
+      "sName": "Aisha Ali Halane",
+      "phone": "61783383",
+      "sClass": "CA194",
+      "semester": "6",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "sName": "Xafsa Abdulkadir Mohamed",
+      "phone": 617239349,
+      "semester": 6,
+      "sClass": "CA194"
+    },
+    {
+      "sName": "Abdimalik Osman Hassan",
+      "phone": "616328920",
+      "sClass": "CA194",
+      "semester": "6",
+      "id": 8
+    },
+    {
+      "sName": "Mustaf Abubakar Abdalla",
+      "phone": "615299303",
+      "sClass": "CA194",
+      "semester": "6",
+      "id": 9
+    },
+    {
+      "sName": "Abdirizak Abdullahi Hassan",
+      "phone": "617239230",
+      "sClass": "CA194",
+      "semester": "6",
+      "id": 10
+    },
+    {
+      "sName": "Saalim Abubakar Ahmed",
+      "phone": "618282923",
+      "sClass": "CA194",
+      "semester": "6",
+      "id": 11
+    }
+  ]
+}
